@@ -1,0 +1,780 @@
+{
+  "tooltips": [
+    {
+      "item": "the_vault:vault_burger",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의\n0-3%를 얻습니다"
+    },
+    {
+      "item": "the_vault:oozing_pizza",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의\n0-1%를 얻습니다"
+    },
+    {
+      "item": "the_vault:vault_cookie",
+      "value": "먹으면 볼트 경험치를 얻습니다"
+    },
+    {
+      "item": "the_vault:skill_orb",
+      "value": "사용하면 스킬포인트를 얻습니다\n당신의 파워 레벨을 1 올립니다"
+    },
+    {
+      "item": "the_vault:gem_alexandrite",
+      "value": "흔치 않은 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_benitoite",
+      "value": "흔한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_larimar",
+      "value": "흔한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_black_opal",
+      "value": "매우 희귀한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_painite",
+      "value": "희귀한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_wutodie",
+      "value": "흔치 않은 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_iskallium",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_gorginite",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_sparkletine",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_ashium",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_bomignite",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_funsoide",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_tubium",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_upaline",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_puffium",
+      "value": "고유한 볼트 젬"
+    },
+    {
+      "item": "the_vault:gem_echo",
+      "value": "전설의 볼트 젬"
+    },
+    {
+      "item": "the_vault:vault_rock",
+      "value": "볼트 제단에 사용하여 볼트 크리스탈로 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:gem_pog",
+      "value": "모든 전설의 볼트 젬의 결합\n더 높은 단계의 조합법에 필요합니다"
+    },
+    {
+      "item": "the_vault:echo_pog",
+      "value": "더 높은 단계의 조합법에 필요합니다"
+    },
+    {
+      "item": "the_vault:key_iskallium",
+      "value": "볼트 안의 이스칼륨 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_gorginite",
+      "value": "볼트 안의 조지나이트 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_sparkletine",
+      "value": "볼트 안의 스파클레틴 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_ashium",
+      "value": "볼트 안의 애슘 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_bomignite",
+      "value": "볼트 안의 보미그나이트 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_funsoide",
+      "value": "볼트 안의 펀소이드 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_tubium",
+      "value": "볼트 안의 투븀 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_upaline",
+      "value": "볼트 안의 우팔라인 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:key_puffium",
+      "value": "볼트 안의 퍼퓸 문이 달려있는 보물방을 열 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_booster_pack",
+      "value": "사용하여 유물이나 미스터리박스\n혹은 적은 경험치를 얻을 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_dragon_head",
+      "value": "드래곤 세트의 다른 네 조각과 조합하여\n드래곤 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_dragon_tail",
+      "value": "드래곤 세트의 다른 네 조각과 조합하여\n드래곤 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_dragon_foot",
+      "value": "드래곤 세트의 다른 네 조각과 조합하여\n드래곤 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_dragon_chest",
+      "value": "드래곤 세트의 다른 네 조각과 조합하여\n드래곤 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_dragon_breath",
+      "value": "드래곤 세트의 다른 네 조각과 조합하여\n드래곤 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_miners_delight",
+      "value": "광부 세트의 다른 네 조각과 조합하여\n광부 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_miners_light",
+      "value": "광부 세트의 다른 네 조각과 조합하여\n광부 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_pickaxe_handle",
+      "value": "광부 세트의 다른 네 조각과 조합하여\n광부 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_pickaxe_head",
+      "value": "광부 세트의 다른 네 조각과 조합하여\n광부 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_pickaxe_tool",
+      "value": "광부 세트의 다른 네 조각과 조합하여\n광부 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_sword_blade",
+      "value": "전사 세트의 다른 네 조각과 조합하여\n전사 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_sword_handle",
+      "value": "전사 세트의 다른 네 조각과 조합하여\n전사 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_sword_stick",
+      "value": "전사 세트의 다른 네 조각과 조합하여\n전사 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_warriors_armour",
+      "value": "전사 세트의 다른 네 조각과 조합하여\n전사 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_warriors_charm",
+      "value": "전사 세트의 다른 네 조각과 조합하여\n전사 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_diamond_essence",
+      "value": "풍요 세트의 다른 네 조각과 조합하여\n풍요 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_gold_essence",
+      "value": "풍요 세트의 다른 네 조각과 조합하여\n풍요 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_mystic_gem_essence",
+      "value": "풍요 세트의 다른 네 조각과 조합하여\n풍요 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_netherite_essence",
+      "value": "풍요 세트의 다른 네 조각과 조합하여\n풍요 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_platinum_essence",
+      "value": "풍요 세트의 다른 네 조각과 조합하여\n풍요 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_cupcake_blue",
+      "value": "컵케이크 세트의 다른 네 조각과 조합하여\n컵케이크 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_cupcake_lime",
+      "value": "컵케이크 세트의 다른 네 조각과 조합하여\n컵케이크 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_cupcake_pink",
+      "value": "컵케이크 세트의 다른 네 조각과 조합하여\n컵케이크 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_cupcake_purple",
+      "value": "컵케이크 세트의 다른 네 조각과 조합하여\n컵케이크 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_cupcake_red",
+      "value": "컵케이크 세트의 다른 네 조각과 조합하여\n컵케이크 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_air",
+      "value": "원소 세트의 다른 네 조각과 조합하여\n원소 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_spirit",
+      "value": "원소 세트의 다른 네 조각과 조합하여\n원소 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_fire",
+      "value": "원소 세트의 다른 네 조각과 조합하여\n원소 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_earth",
+      "value": "원소 세트의 다른 네 조각과 조합하여\n원소 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_water",
+      "value": "원소 세트의 다른 네 조각과 조합하여\n원소 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twolf999_head",
+      "value": "Twolf999 세트의 다른 네 조각과 조합하여\nTwolf999 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twolf999_combat_vest",
+      "value": "Twolf999 세트의 다른 네 조각과 조합하여\nTwolf999 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twolf999_combat_leggings",
+      "value": "Twolf999 세트의 다른 네 조각과 조합하여\nTwolf999 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twolf999_combat_gloves",
+      "value": "Twolf999 세트의 다른 네 조각과 조합하여\nTwolf999 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twolf999_combat_boots",
+      "value": "Twolf999 세트의 다른 네 조각과 조합하여\nTwolf999 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_armor_of_forbearance",
+      "value": "ShieldmanH 세트의 다른 네 조각과 조합하여\nShieldmanH 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_heart_of_the_void",
+      "value": "ShieldmanH 세트의 다른 네 조각과 조합하여\nShieldmanH 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_nemesis_thwarter",
+      "value": "ShieldmanH 세트의 다른 네 조각과 조합하여\nShieldmanH 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_reverence_edge",
+      "value": "ShieldmanH 세트의 다른 네 조각과 조합하여\nShieldmanH 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_wings_of_equity",
+      "value": "ShieldmanH 세트의 다른 네 조각과 조합하여\nShieldmanH 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twitch_emote1",
+      "value": "트위치 세트의 다른 네 조각과 조합하여\n트위치 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twitch_emote2",
+      "value": "트위치 세트의 다른 네 조각과 조합하여\n트위치 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twitch_emote3",
+      "value": "트위치 세트의 다른 네 조각과 조합하여\n트위치 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twitch_emote4",
+      "value": "트위치 세트의 다른 네 조각과 조합하여\n트위치 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:relic_twitch_emote5",
+      "value": "트위치 세트의 다른 네 조각과 조합하여\n트위치 유물을 완성하세요\n유물은 볼트 안에서의 시간을\n단 한번만, 영구적으로 30초 늘려줍니다\n초과한 유물 동상들은 녹여서 쓴 레몬을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:trader_core",
+      "value": "자판기에 넣어서 거래하세요"
+    },
+    {
+      "item": "the_vault:orb_frame",
+      "value": "스킬 오브의 조합 기초"
+    },
+    {
+      "item": "the_vault:skill_shard",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:key_piece",
+      "value": "보물 열쇠의 조합 재료"
+    },
+    {
+      "item": "the_vault:key_mould",
+      "value": "보물 열쇠의 조합 재료"
+    },
+    {
+      "item": "the_vault:blank_key",
+      "value": "열쇠 모루에서 보석 덩이와 결합하여 보물 열쇠를 만드세요"
+    },
+    {
+      "item": "the_vault:netherite_cluster",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_iskallium",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_gorginite",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_sparkletine",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_ashium",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_bomignite",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_funsoide",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_tubium",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_upaline",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:cluster_puffium",
+      "value": "고급 조합 재료"
+    },
+    {
+      "item": "the_vault:vault_stew_mystery",
+      "value": "알 수 없는 희귀도의 신비한 스튜를 포함하고 있습니다\n우클릭으로 확인"
+    },
+    {
+      "item": "the_vault:vault_stew_normal",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의 20%를 얻습니다"
+    },
+    {
+      "item": "the_vault:vault_stew_rare",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의 40%를 얻습니다"
+    },
+    {
+      "item": "the_vault:vault_stew_epic",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의 60%를 얻습니다"
+    },
+    {
+      "item": "the_vault:vault_stew_omega",
+      "value": "먹으면 다음 레벨까지 필요한 경험치의 99%를 얻습니다"
+    },
+    {
+      "item": "the_vault:poisonous_mushroom",
+      "value": "희귀한 조합 재료"
+    },
+    {
+      "item": "the_vault:vault_gold",
+      "value": "볼트 헌터들의 화폐\n상인과의 거래에 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:vault_diamond",
+      "value": "희귀한 조합 재료"
+    },
+    {
+      "item": "the_vault:skill_essence",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:unidentified_relic",
+      "value": "무작위한 유물을 얻을 수 있습니다\n우클릭으로 확인"
+    },
+    {
+      "item": "the_vault:hunter_eye",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:burger_patty",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:burger_bun",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:mystic_tomato",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:mature_cheddar",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:vault_ingot",
+      "value": "조합 재료, 주로 볼트 장비를 만드는데에 쓰입니다"
+    },
+    {
+      "item": "the_vault:vault_platinum",
+      "value": "볼트 헌터들의 화폐\n상인과의 거래에 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:mystery_box",
+      "value": "무작위한 물건들이 들어있습니다\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:drilling_tip",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:drill_arrow",
+      "value": "당신의 활을 로켓 런처로 바꿉니다\n조심하세요!"
+    },
+    {
+      "item": "the_vault:mystery_egg",
+      "value": "무작위한 수동적 몹들이 들어있습니다\n우클릭으로 열기\n\n또한 알수없는 적대적 알을 만드는데에 쓰일 수 있습니다"
+    },
+    {
+      "item": "the_vault:mystery_hostile_egg",
+      "value": "무작위한 적대적 몹들이 들어있습니다\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:pandoras_box",
+      "value": "??????\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:chunk_iskallium",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_gorginite",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_sparkletine",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_ashium",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_bomignite",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_funsoide",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_tubium",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_upaline",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:chunk_puffium",
+      "value": "에픽 조합 재료"
+    },
+    {
+      "item": "the_vault:omega_pog",
+      "value": "최종단계의 아이템들을 만드는 데에 쓰입니다\n또한 모루에서 아티팩트와 합치면 다시 굴릴 수 있습니다"
+    },
+    {
+      "item": "the_vault:eternal_soul",
+      "value": "타락한 이터널의 영혼이며, 당신이 적어도 하나의 이터널을 가지고 있을 때 보스 나무상자에서 발견할 수 있습니다\n조합 재료로 쓰입니다"
+    },
+    {
+      "item": "the_vault:spark",
+      "value": "빈 공간에서 아티팩트를 만드는 데에 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:star_shard",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:star_core",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:star_essence",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:knowledge_star",
+      "value": "사용하면 지식포인트를 1 얻습니다"
+    },
+    {
+      "item": "the_vault:infused_eternal_soul",
+      "value": "높은 단계의 조합 재료"
+    },
+    {
+      "item": "the_vault:vault_apple",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:perfect_alexandrite",
+      "value": "흔치 않은 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_painite",
+      "value": "희귀한 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_benitoite",
+      "value": "흔한 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_larimar",
+      "value": "흔한 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_black_opal",
+      "value": "매우 희귀한 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_echo_gem",
+      "value": "에픽 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:perfect_wutodie",
+      "value": "흔치 않은 완벽한 볼트 보석"
+    },
+    {
+      "item": "the_vault:vault_dust",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:vault_nugget",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:vault_bronze",
+      "value": "볼트 헌터들의 화폐\n상인과의 거래에 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:vault_silver",
+      "value": "볼트 헌터들의 화폐\n상인과의 거래에 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:magnet_core_weak",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:magnet_core_strong",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:magnet_core_omega",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:wutax_crystal",
+      "value": "모루에서 아무 볼트 장비와 결합하여 무작위한 수정자를 추가할 수 있습니다"
+    },
+    {
+      "item": "the_vault:vault_catalyst",
+      "value": "볼트 크리스탈과 결합하면 수정자를 추가합니다"
+    },
+    {
+      "item": "the_vault:vault_inhibitor",
+      "value": "볼트 크리스탈과 결합하면 수정자를 제거합니다"
+    },
+    {
+      "item": "the_vault:soul_flame",
+      "value": "볼트 크리스탈과 결합하면 내세 수정자를 추가합니다\n당신이 죽을 때 아이템을 잃는 것을 방지해줍니다\n하지만 조심하세요. 아티팩트의 기회를 제거하기도 합니다"
+    },
+    {
+      "item": "the_vault:soul_shard",
+      "value": "노점 상인의 화폐 (F7)"
+    },
+    {
+      "item": "the_vault:shard_pouch",
+      "value": "영혼 조각이 드랍되려면 인벤토리에 넣어야합니다\n끝없는 양의 영혼 조각을 보관할 수 있습니다"
+    },
+    {
+      "item": "the_vault:vault_paxel",
+      "value": "곡괭이, 도끼와 삽 - 모든 걸 하나에\n수선을 마법부여할 수 없습니다"
+    },
+    {
+      "item": "the_vault:infinite_water_bucket",
+      "value": "영구적인 물 공급원"
+    },
+    {
+      "item": "the_vault:vault_pearl",
+      "value": "플레이어를 던져진 방향으로 순간이동 시키며 여러번 사용할 수 있습니다"
+    },
+    {
+      "item": "the_vault:vault_magnet_weak",
+      "value": "플레이어 앞의 아이템들을 빨아들입니다\n핫바에서 우클릭하여 활성화"
+    },
+    {
+      "item": "the_vault:vault_magnet_strong",
+      "value": "플레이어 앞의 아이템들을 빨아들입니다\n핫바에서 우클릭하여 활성화"
+    },
+    {
+      "item": "the_vault:vault_magnet_omega",
+      "value": "플레이어 앞의 아이템들을 빨아들입니다\n핫바에서 우클릭하여 활성화"
+    },
+    {
+      "item": "the_vault:void_liquid_bucket",
+      "value": "조합 재료, 건축가 볼트의 깊은 곳에서 발견됩니다"
+    },
+    {
+      "item": "the_vault:vaulterite_ingot",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:red_vault_essence",
+      "value": "조합 재료"
+    },
+    {
+      "item": "the_vault:unidentified_treasure_key",
+      "value": "무작위한 보물 열쇠가 들어있습니다\n우클릭으로 확인"
+    },
+    {
+      "item": "the_vault:fabrication_jewel",
+      "value": "모루에서 볼트 장비와 결합하여 장인 스크롤을 만들 수 있습니다\n이 과정은 볼트 장비를 파괴합니다"
+    },
+    {
+      "item": "the_vault:armor_crate_hellcow",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Hellcow\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_botania",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Botania\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_create",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Create\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_dank",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Dank\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_flux",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Flux\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_ie",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: IE\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_meka",
+      "value": "Contains 1 of 8 pieces from the gear vanity set: Meka\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_powah",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Powah\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_thermal",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Thermal\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_trash",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Trash\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_villager",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Villager\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_automatic",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Automatic\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_fairy",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Fairy\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_building",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Building\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_zombie",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Zombie\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_xnet",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Xnet\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_test_dummy",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Test Dummy\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_if",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Industrial Foregoing\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:armor_crate_cake",
+      "value": "치장 장비 세트의 4개 중 1개가 들어있습니다: Cake\n우클릭으로 열기"
+    },
+    {
+      "item": "the_vault:vault_altar",
+      "value": "줄이면 볼타\n제단에 볼트 돌을 넣으면 볼트 크리스탈을 만들 수 있습니다"
+    },
+    {
+      "item": "the_vault:vending_machine",
+      "value": "같은 이름의 상인 코어를 여러 개 관리할 수 있습니다"
+    },
+    {
+      "item": "the_vault:advanced_vending_machine",
+      "value": "끝없는 양의 상인 코어를 관리할 수 있습니다"
+    },
+    {
+      "item": "the_vault:gift_normal_statue",
+      "value": "다 떨어질 때까지 무작위한 자원을 생산합니다"
+    },
+    {
+      "item": "the_vault:gift_mega_statue",
+      "value": "다 떨어질 때까지 많은 양의 무작위한 자원을 생산합니다"
+    },
+    {
+      "item": "the_vault:vault_player_loot_statue",
+      "value": "다 떨어질 때까지 무작위한 자원을 생산합니다"
+    },
+    {
+      "item": "the_vault:cryo_chamber",
+      "value": "이터널들을 만드는데에 사용합니다\n극저온실에 상인 코어를 우클릭하여\n극저온실에 상인코어를 넣으세요\n상인 코어가 충분히 모이면\n이터널을 생산하고 관리할 것입니다\n\nRight-click a Cryo Chamber with an eternal to upgrade and modify the eternal"
+    },
+    {
+      "item": "the_vault:key_press",
+      "value": "보물 열쇠를 만드는데에 쓰입니다"
+    },
+    {
+      "item": "the_vault:vault_diamond_block",
+      "value": "조합 재료"
+    }
+  ]
+}
