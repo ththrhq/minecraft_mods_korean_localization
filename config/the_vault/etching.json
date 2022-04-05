@@ -1,0 +1,132 @@
+{
+  "ETCHINGS": {
+    "NONE": {
+      "weight": 1,
+      "minValue": 1,
+      "maxValue": 2,
+      "lore": "yes",
+      "effectText": "yes",
+      "color": 5636095
+    },
+    "DRAGON": {
+      "weight": 6,
+      "minValue": 12,
+      "maxValue": 24,
+      "lore": "yes",
+      "effectText": "대미지+50%와 겉날개 부여",
+      "color": 5636095
+    },
+    "ZOD": {
+      "weight": 2,
+      "minValue": 26,
+      "maxValue": 64,
+      "lore": "yes",
+      "effectText": "모든 갑옷들이 부서지지 않게 합니다",
+      "color": 13158600
+    },
+    "NINJA": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "회피+30%와 회피 상한+10%",
+      "color": 5046445
+    },
+    "GOLEM": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "저항 상한+20%",
+      "color": 4029206
+    },
+    "RIFT": {
+      "weight": 5,
+      "minValue": 14,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "쿨타임 감소+50%, 기본 쿨타임 감소 후에 적용되고 상한을 무시합니다",
+      "color": 4029393
+    },
+    "CARAPACE": {
+      "weight": 6,
+      "minValue": 10,
+      "maxValue": 20,
+      "lore": "yes",
+      "effectText": "임시 체력 상한+50%",
+      "color": 4039156
+    },
+    "DIVINITY": {
+      "weight": 5,
+      "minValue": 14,
+      "maxValue": 36,
+      "lore": "yes",
+      "effectText": "모든 저주에 대한 면역 부여",
+      "color": 4046406
+    },
+    "DRYAD": {
+      "weight": 2,
+      "minValue": 18,
+      "maxValue": 36,
+      "lore": "yes",
+      "effectText": "체력+10",
+      "color": 4046461
+    },
+    "BLOOD": {
+      "weight": 4,
+      "minValue": 12,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "대미지+200%",
+      "color": 12386304
+    },
+    "VAMPIRE": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "생명력 흡수+5%",
+      "color": 12386427
+    },
+    "TREASURE": {
+      "weight": 5,
+      "minValue": 18,
+      "maxValue": 64,
+      "lore": "yes",
+      "effectText": "상자 희귀도+200%",
+      "color": 12451707
+    },
+    "ASSASSIN": {
+      "weight": 4,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "치명적인 타격 확률+40%",
+      "color": 13930844
+    },
+    "PHOENIX": {
+      "weight": 2,
+      "minValue": 14,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "볼트 안에서 죽었을 때 부활하고 보관함 초기화",
+      "color": 16739386
+    },
+    "DREAM": {
+      "weight": 5,
+      "minValue": 16,
+      "maxValue": 48,
+      "lore": "yes",
+      "effectText": "대미지+50%, 성급함+2, 저항+10%, 회피+10%, 상자 희귀도+25%",
+      "color": 16773120
+    },
+    "PORCUPINE": {
+      "weight": 10,
+      "minValue": 12,
+      "maxValue": 32,
+      "lore": "yes",
+      "effectText": "가시 발동 확률+40%, 가시 대미지+100%",
+      "color": 3093151
+    }
+  }
+}
