@@ -3,8 +3,7 @@ Files that is needed for translating "The Vault" completely
 
 이 모드는 아이템의 이름 등을 번역해야할 뿐만아니라, 스킬이나 연구 등의 이름, 설명 등도 번역해야 합니다.
 
-전자는 리소스팩으로 번역하며, 후자는 config/the_vault/ 폴더의 .json파일로 번역합니다.
-
+전자는 리소스팩으로 번역하며, 후자는 config/the_vault/ 폴더의 .json파일로 번역합니다.  
  -> 현재 github에 오픈소스로 되어있는 모드 파일은 최신 버전이 아니며,
  lang 파일도 누락된 부분이 있습니다. 따라서 현재 릴리즈 되어있는 .jar 파일 내부에서 lang 파일을 가져와야 합니다.
 
