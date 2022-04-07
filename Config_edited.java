@@ -5,15 +5,16 @@ package iskallia.vault.config;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.InputStreamReader;
-import java.io.InputStream;
 import java.io.FileInputStream;
-import java.io.OutputStreamWriter;
-import java.io.OutputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
 import java.io.Reader;
+import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
 public abstract class Config {
@@ -40,10 +41,14 @@ public abstract class Config {
 
     public <T extends Config> T readConfig() {
         try {
-            return (T)((Config)GSON.fromJson((Reader)new InputStreamReader((InputStream)new FileInputStream(getConfigFile()),"utf-8"), this.getClass()));
+            return (T)((Config)GSON.fromJson((Reader)new InputStreamReader((InputStream)new FileInputStream(this.getConfigFile()), "utf-8"), this.getClass()));
         }
         catch (FileNotFoundException e) {
             this.generateConfig();
+            return (T)this;
+        }
+        catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
             return (T)this;
         }
     }
@@ -58,7 +63,7 @@ public abstract class Config {
         if (!this.getConfigFile().exists() && !this.getConfigFile().createNewFile()) {
             return;
         }
-        OutputStreamWriter writer = new OutputStreamWriter((OutputStream)new FileOutputStream(getConfigFile()),"utf-8");
+        OutputStreamWriter writer = new OutputStreamWriter((OutputStream)new FileOutputStream(this.getConfigFile()), "utf-8");
         GSON.toJson((Object)this, (Appendable)writer);
         writer.flush();
         writer.close();
