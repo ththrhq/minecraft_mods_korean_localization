@@ -15,4 +15,5 @@ Files that is needed for translating "The Vault" completely
 
 ## 할 일
 config/the_vault_skill_descriptions.json 번역
-디컴파일해서 인코딩 문제 해결 가능한지 확인 -> recaf로 Config.class 파일을 Config_edited.java 파일의 내용으로 교체하고, gson 라이브러리와 함께 컴파일하기
+디컴파일해서 인코딩 문제 해결 가능한지 확인  
+-> recaf로 Config.class 파일을 Config_edited.java 파일의 내용으로 교체하고, gson 라이브러리와 함께 컴파일하기
