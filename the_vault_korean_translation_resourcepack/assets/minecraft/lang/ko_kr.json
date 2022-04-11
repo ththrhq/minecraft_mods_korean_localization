@@ -1,0 +1,11 @@
+{
+  "item.minecraft.potion.effect.time_acceleration_x2": "볼트 시간 가속의 물약",
+  "item.minecraft.potion.effect.time_acceleration_x3": "볼트 시간 가속의 물약",
+  "item.minecraft.potion.effect.time_acceleration_x4": "볼트 시간 가속의 물약",
+  "item.minecraft.splash_potion.effect.time_acceleration_x2": "투척용 볼트 시간 가속의 물약",
+  "item.minecraft.splash_potion.effect.time_acceleration_x3": "투척용 볼트 시간 가속의 물약",
+  "item.minecraft.splash_potion.effect.time_acceleration_x4": "투척용 볼트 시간 가속의 물약",
+  "item.minecraft.lingering_potion.effect.time_acceleration_x2": "잔류형 볼트 시간 가속의 물약",
+  "item.minecraft.lingering_potion.effect.time_acceleration_x3": "잔류형 볼트 시간 가속의 물약",
+  "item.minecraft.lingering_potion.effect.time_acceleration_x4": "잔류형 볼트 시간 가속의 물약"
+}
