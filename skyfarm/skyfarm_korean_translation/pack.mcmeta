@@ -1,0 +1,12 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "Sky Farm 모드팩의 주요 모드인 Sky Farm Core의 한글 번역"
+   },
+   "language": {
+      "ko_kr": {
+         "name": "korean",
+         "region": ""
+      }
+   }
+}
